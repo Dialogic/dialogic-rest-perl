@@ -20,6 +20,7 @@ Usage: perl scriptname XMS_IP_Addr
 
 Dependencies: modules LWP and XML::LibXML, which come with Strawberry Perl on Windows, and can be grabbed from CPAN if needed on Linux
 
+Note - all scripts have been developed and tested using XMS 2.3 SU1. 
 
 Useful Links
 =============
