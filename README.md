@@ -16,7 +16,7 @@ Repository Contents
 
 **xms_rest_conf.pl** - creates a single conference and joins incoming callers to the conference
 
-Usage: perl <scriptname> <XMS IP Addr>
+Usage: perl scriptname XMS_IP_Addr
 
 Dependencies: modules LWP and XML::LibXML, which come with Strawberry Perl on Windows, and can be grabbed from CPAN if needed on Linux
 
